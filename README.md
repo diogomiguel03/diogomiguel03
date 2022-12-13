@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @diogomiguel03
 - 👀 I’m interested in learning how to code, so i can be in the future a software engineer!
 - 🌱 I’m currently learning Java.
-- 📫 How to reach me - instagram: _diogomiguel03_
+- 📫 How to reach me - instagram: _ diogomiguel03 _
 - 😊 If you know a lot about programming and coding !please! help me :))
 
 <!---
