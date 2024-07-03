@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **React, TailwindCSS, VueJS** 
 
-- 📄 Know about my experiences [my checking my CV](3)
+- 📄 Know about my experiences [my checking my CV](https://github.com/diogomiguel03/diogomiguel03/blob/main/Diogo-Silva-CV.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
