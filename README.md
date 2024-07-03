@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [my own portfolio (soon available)](https://diogomgsilva.com)
 
-- 🌱 I’m currently learning ** React, TailwindCSS, VueJS ** 
+- 🌱 I’m currently learning **React, TailwindCSS, VueJS** 
 
 - 📄 Know about my experiences [my checking my CV](3)
 
