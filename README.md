@@ -19,7 +19,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-### Frontend Development
+<h4 align="left">Frontend Development </h4>
 <p align="left">
   <a href="https://angular.io" target="_blank" rel="noreferrer"> 
     <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> 
@@ -44,7 +44,7 @@
   </a>
 </p>
 
-### Backend Development
+<h4 align="left">Backend Development </h4>
 <p align="left">
   <a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> 
@@ -55,6 +55,8 @@
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
   </a>
+
+  <h4 align="left">Databases </h4>
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
   </a>
@@ -66,7 +68,7 @@
   </a>
 </p>
 
-### DevOps
+<h4 align="left"> DevOps </h4>
 <p align="left">
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
@@ -76,7 +78,7 @@
   </a>
 </p>
 
-### Software Design Tools
+<h4 align="left">Software Design Tools</h4>
 <p align="left">
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
@@ -86,7 +88,7 @@
   </a>
 </p>
 
-### Programming Languages
+<h4 align="left">Programming Languages </h4>
 <p align="left">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
