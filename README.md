@@ -4,25 +4,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=diogomiguel03&label=Profile%20views&color=0e75b6&style=flat" alt="diogomiguel03" /> </p>
 
-- 🔭 I’m currently working on [1](2)
+- 🔭 I’m currently working on [my own portfolio (soon available)](https://diogomgsilva.com)
 
-- 🌱 I’m currently learning **3**
+- 🌱 I’m currently learning ** React, TailwindCSS, VueJS ** 
 
-- 👯 I’m looking to collaborate on [2](3)
-
-- 🤝 I’m looking for help with [3](3)
-
-- 👨‍💻 All of my projects are available at [3](3)
-
-- 📝 I regularly write articles on [3](3)
-
-- 💬 Ask me about **3**
-
-- 📫 How to reach me **3**
-
-- 📄 Know about my experiences [3](3)
-
-- ⚡ Fun fact **3**
+- 📄 Know about my experiences [my checking my CV](3)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
